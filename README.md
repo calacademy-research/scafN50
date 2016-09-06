@@ -6,6 +6,7 @@ scafN50.sh : wrapper shell script for scaflens.py with specific options to calcu
 
 ### Usage
 $ git clone https://github.com/calacademy-research/scafN50.git  
+$ cd scafN50  
 \# Run "scafN50.sh" on a file in FASTA format  
 $ ./scafN50.sh \<assembly_file.fasta\>  
 \# Results output to a file named "scafN50s.txt"  
