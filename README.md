@@ -6,8 +6,9 @@ scafN50.sh : wrapper shell script for scaflens.py with specific options to calcu
 
 ### Usage
 $ git clone https://github.com/calacademy-research/scafN50.git  
+\# Run "scafSeqContigInfo.sh" on a file in FASTA format  
 $ ./scafN50.sh \<assembly_file.fasta\>  
-\# Results output to a file named "scafN50s.txt"
+\# Results output to a file named "scafN50s.txt"  
 
 ### scaflens.py options
 $ python scaflens.py  
@@ -35,7 +36,7 @@ Usage: scaflens.py <scafSeq_file_from_SOAP_assembly> [ [-t|-n [-C] [scaff_len ..
 ```
 
 ### scafN50.sh description
-$ ./scafN50.sh 
+$ ./scafN50.sh  
 ```
 
     scafN50.sh computes the scaffold N50 for the scafSeq file of argument 1.
