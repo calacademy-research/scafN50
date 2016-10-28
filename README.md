@@ -51,3 +51,6 @@ $ ./scafN50.sh
 #### Authorship
 Code author: James B. Henderson, jhenderson@calacademy.org  
 README.md authors: Zachary R. Hanna, James B. Henderson  
+
+#### Version 1.0.0
+[![DOI](https://zenodo.org/badge/66877550.svg)](https://zenodo.org/badge/latestdoi/66877550)
